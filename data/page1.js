@@ -1,11 +1,11 @@
 module.exports = {
-	title: '前端资源',
+	title: '11',
 	hash: '#page1',
 	nav: [
 		{
 			icon: './icon/page1/icon-1x001.png',
 			name: 'Vue.js',
-			desc: '是一套用于构建用户界面的渐进式框架',
+			desc: '是一套用于构建用户界面的渐进式框架11',
 			link: 'https://cn.vuejs.org/',
 			language: [
 				'https://vuejs.org/',
